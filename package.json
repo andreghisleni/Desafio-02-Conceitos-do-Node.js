@@ -4,8 +4,8 @@
   "main": "src/server.js",
   "license": "MIT",
   "scripts": {
-    "dev": "yarn nodemon",
-    "test": "yarn jest"
+    "dev": "nodemon",
+    "test": "jest"
   },
   "dependencies": {
     "cors": "^2.8.5",
